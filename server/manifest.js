@@ -32,6 +32,10 @@ module.exports = new Confidence.Store({
             {
                 plugin: '../lib', // Main plugin
                 options: {
+                    admins: {
+                        lead: process.env.LEAD_ADMIN_PHONE,
+                        secondary: process.env.SECONDARY_ADMIN_PHONE
+                    },
                     twilio: {
                         account: {
                             accountSid: process.env.SID,
