@@ -27,7 +27,6 @@
     "haute-couture": "3.x.x",
     "joi": "17.x.x",
     "schmervice": "^1.6.0",
-    "sse-listen": "^1.0.3",
     "twilio": "^3.54.1"
   },
   "devDependencies": {
