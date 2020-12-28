@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "@hapi/boom": "9.x.x",
+    "@wswoodruff/ez-sse": "^2.1.1",
     "haute-couture": "3.x.x",
     "joi": "17.x.x",
     "schmervice": "^1.6.0",
