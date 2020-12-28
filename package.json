@@ -1,5 +1,5 @@
 {
-  "name": "ez-txt",
+  "name": "@wswoodruff/ez-txt",
   "version": "1.0.0",
   "description": "",
   "author": "wsw",
@@ -36,5 +36,13 @@
     "hpal": "2.x.x",
     "hpal-debug": "1.x.x",
     "toys": "2.x.x"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wswoodruff/ez-txt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wswoodruff/ez-txt/issues"
+  },
+  "homepage": "https://github.com/wswoodruff/ez-txt#readme"
 }
