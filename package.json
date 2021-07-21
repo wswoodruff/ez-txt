@@ -9,9 +9,6 @@
     "lib": "lib",
     "test": "test"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@wswoodruff"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wswoodruff/ez-txt.git"
