@@ -1,8 +1,8 @@
 {
-  "name": "@wswoodruff/ez-txt",
-  "version": "1.4.1",
+  "name": "ez-txt",
+  "version": "1.4.2",
   "description": "",
-  "author": "wsw",
+  "author": "wswoodruff",
   "license": "UNLICENSED",
   "main": "lib/index.js",
   "directories": {
