@@ -20,7 +20,6 @@
   },
   "dependencies": {
     "@hapi/boom": "9.x.x",
-    "@wswoodruff/ez-sse": "^2.1.1",
     "haute-couture": "3.x.x",
     "joi": "17.x.x",
     "schmervice": "^1.6.0",
@@ -33,6 +32,7 @@
     "@hapi/glue": "8.x.x",
     "@hapi/hapi": "20.x.x",
     "@hapi/lab": "23.x.x",
+    "@wswoodruff/ez-sse": "^2.1.2",
     "babel-eslint": "10.x.x",
     "confidence": "4.x.x",
     "dotenv": "8.x.x",
